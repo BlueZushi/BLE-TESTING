@@ -205,7 +205,7 @@ typedef struct {
 
 static Attack attacks[] = {
     {
-        .title = "+ All Attacks",
+        .title = "Attack All Devices",
         .text = "Flood all attacks at once",
         .payload =
             {
